@@ -49,15 +49,15 @@ a {
 }
 
 #slideshow > div.simpatico {
-    background-image: url(../img/simpatico-bad-res.jpeg);
+    background-image: url(../img/men/simpatico.jpg);
 }
 
-#slideshow > div.simpatico {
-    background-image: url(../img/simpatico-bad-res.jpeg);
+#slideshow > div.brandy-kemp {
+    background-image: url(../img/women/BrandyKemp.jpg);
 }
 
-#slideshow > div.simpatico {
-    background-image: url(../img/simpatico-bad-res.jpeg);
+#slideshow > div.marti-koehler {
+    background-image: url(../img/women/MartiKoehler.jpg);
 }
 
 .landing .text {
